@@ -1,4 +1,5 @@
-1. Run ti_sim.py for chnage in free_energy calculation
+Install HALMD.
+1. Run ti_sim.py for change in free_energy calculation
 Format ./ti_sim.py init_density final_denisty
 2. Run presure_endpoints.py for presure at endpoints
 Format ./presure_endpoints.py num_particles
