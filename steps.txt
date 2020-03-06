@@ -1,0 +1,5 @@
+1. Run ti_sim.py for chnage in free_energy calculation
+Format ./ti_sim.py init_density final_denisty
+2. Run presure_endpoints.py for presure at endpoints
+Format ./presure_endpoints.py num_particles
+2. Run cal_muex.py  for the results from above scripts: for calculating change in chemical potential
