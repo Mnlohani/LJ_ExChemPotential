@@ -1,6 +1,8 @@
 import numpy as np
 from scipy import integrate
 
+''' Test case considering Hard sphere liuids
+'''
 T = 2.74
 N = 10000
 rho_test= np.linspace(.1, 1., 10)
