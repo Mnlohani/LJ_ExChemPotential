@@ -1,5 +1,14 @@
 # LJLiquids_Excess_ChemPotential
-A Python based computional package of calculating excess chemical potential for LJ liquids using Thermodynamic Integration 
+A Python based computional package of calculating excess chemical potential for LJ liquids using Thermodynamic Integration
+
+## Overview
+Our method compares the result with analytical results from the paper[1] by J. Karl Johnson et. al. which shows a good proximity.
+In addition, the method gives correct results for Hard-sphere liquids
+
+[1] J. Karl Johnson , John A. Zollweg Keith E. Gubbins (1993): The Lennard-Jones equation of state
+revisited, Molecular Physics, 78:3, 591-618
+
+[2] Gari Sarkisov: J. Chem. Phys. 114, 9496 (2001)
 
 ## Requirement
 Python, HALMD package, Numpy, Lua.
