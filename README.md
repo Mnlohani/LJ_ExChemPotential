@@ -8,8 +8,6 @@ In addition, the method gives correct results for Hard-sphere liquids
 [1] J. Karl Johnson , John A. Zollweg Keith E. Gubbins (1993): The Lennard-Jones equation of state
 revisited, Molecular Physics, 78:3, 591-618
 
-[2] Gari Sarkisov: J. Chem. Phys. 114, 9496 (2001)
-
 ## Requirement
 Python, HALMD package, Numpy, Lua.
 
