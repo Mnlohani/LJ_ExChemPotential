@@ -1,5 +1,8 @@
 # LJLiquids_Excess_ChemPotential
-Computional method of excess chemical Potential for LJ liquids using Thermodynamic Integration based on Python, HALMD package, Numpy, Lua.
+A Python based computional package of calculating excess chemical potential for LJ liquids using Thermodynamic Integration 
+
+## Requirement
+Python, HALMD package, Numpy, Lua.
 
 HALMD is a high-precision molecular dynamics package for large-scale simulations of the complex dynamics in inhomogeneous liquids.
 
